@@ -1,0 +1,25 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Gravity.cs">
+    <Files>
+      <File FileName="Assets\Move.cs" Line="1" Column="1" />
+      <File FileName="Assets\Clicker.cs" Line="1" Column="1" />
+      <File FileName="Assets\Timescaler.cs" Line="1" Column="1" />
+      <File FileName="Assets\Gravity.cs" Line="19" Column="128" />
+      <File FileName="Assets\ObjectPicker.cs" Line="1" Column="1" />
+      <File FileName="Assets\Restart.cs" Line="1" Column="1" />
+      <File FileName="Assets\Exit.cs" Line="1" Column="1" />
+      <File FileName="Assets\DestroyAfterSeconds.cs" Line="1" Column="1" />
+      <File FileName="Assets\CountTag.cs" Line="1" Column="1" />
+      <File FileName="Assets\Qubit.cs" Line="1" Column="1" />
+      <File FileName="Assets\DestroyAndReplaceOnContact.cs" Line="1" Column="1" />
+      <File FileName="Assets\Infector.cs" Line="1" Column="1" />
+      <File FileName="Assets\OnDrag.cs" Line="1" Column="1" />
+      <File FileName="Assets\MinimizeController.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
